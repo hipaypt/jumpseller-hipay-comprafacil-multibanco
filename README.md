@@ -12,8 +12,7 @@ os seguintes passos:
 1. Escolher no menu, Definições e de seguida Pagamentos.
 2. Na caixa de escolha, selecionar “Pagamento Externo” e clicar em “Adicionar método”
 3. Preencher o formulário com o nome que pretende para o método de pagamento, por exemplo, Multibanco. No url do método de pagamento deve colocar https://jumpseller-multibanco.hipay.pt/. Na chave do método o username das credenciais fornecidas. Na chave privada o valor fornecido juntamente com as credenciais, para o efeito.
-
-Gravar e verificar que o novo método se encontra disponível na lista de métodos de pagamento.
+4. Gravar e verificar que o novo método se encontra disponível na lista de métodos de pagamento.
 
 ## Como verificar a referência Multibanco disponibilizada ao cliente?
 
